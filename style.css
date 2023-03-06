@@ -9,7 +9,9 @@
   }
   
   .selected {
-    background-color: white;
+    max-width: 40%;
+    background-color: #D3D3D3;
+    border-radius: 10px;
   }
   
   #funcionamento {
